@@ -28,8 +28,6 @@
 // let str1 = "Welcome to my new house";
 
 
-
-
 // undefined
 // let notGiven = undefined;
 
